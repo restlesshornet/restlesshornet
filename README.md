@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, My name is Akshit Srivastava</h1>
+<h1 align="center">Hello👋, I am Akshit Srivastava</h1>
 <h3 align="center">Akshit Srivastava is a dedicated data science and machine learning professional with expertise in Python and frameworks such as Flask and Node.js. He excels in utilizing APIs like Discord, Google Earth Engine, and Streamlit to develop innovative applications. As a second-year student at VIT Bhopal University, Akshit is committed to staying updated in his field. He is fluent in English, a native Hindi speaker, and has intermediate proficiency in Japanese, enabling effective communication across diverse environments. Akshit's multilingual background enhances his versatility and fosters meaningful connections in cross-cultural settings.</h3>
 
 
