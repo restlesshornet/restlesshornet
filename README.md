@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Akshit Srivastava</h1>
 <h3 align="justify">Akshit Srivastava is a Computer Science Student specializing in Artificial Intelligence and Machine Learning with his core interests that lie at the intersection of research and real-world application, where his passion is driven by how algorithms can move beyond the theory to address the pressing problems. 
 
-During his internship at Indian Space Research Organization (ISRO), he utilized the machine learning and GIS techniques in various domains such as Public Health, Meteorology, and predictive modelling. The experiences guide his ability to merge technical research with practical outcomes and reflects his broader interest in how AI can be used to improve decision making in critical domains..</h3>
+During his internship at Indian Space Research Organization (ISRO), he utilized the machine learning and GIS techniques in various domains such as Public Health, Meteorology, and predictive modelling. The experiences guide his ability to merge technical research with practical outcomes and reflects his broader interest in how AI can be used to improve decision making in critical domains.</h3>
 
 
 ## 🌐 Socials:
